@@ -2,8 +2,8 @@
   import Social from "./Social.svelte";
 
   let currentYear: string | number = new Date().getFullYear();
-  if (currentYear > 2021) {
-    currentYear = `2021-${currentYear}`;
+  if (currentYear > 2022) {
+    currentYear = `2022-${currentYear}`;
   }
 </script>
 

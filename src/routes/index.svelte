@@ -1,10 +1,10 @@
 <script lang='ts'>
-  import banner from '$assets/images/banner-720x288.png';
+  import banner from '$assets/images/banner.jpg';
   import NFTGrid from '../components/NFT/NFTGrid.svelte';
   import Text from '../components/UI/Text.svelte';
   import Button from '../components/UI/Button.svelte';
 
-  const collectionLink = 'https://solsea.io/collections/';
+  const collectionLink = 'https://solsea.io/collection/6257551ea60820dc4c8c9c1e';
 </script>
 
 <svelte:head>

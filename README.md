@@ -54,7 +54,7 @@ You can create as much store you need for managing the data of your collections.
 
 *src/stores/*
 
-- `nft.store.ts` : Data interface of an example collection
+- `nft.store.ts` : Data interface of the collection
 
 ## Developing
 
