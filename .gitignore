@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+/.yarn
+/build
+/.svelte-kit
+/package
+.idea
+.storybook
+.netlify
+/.idea
+.pnp.*
+*.js
+*.js.map
+!*.config.js
